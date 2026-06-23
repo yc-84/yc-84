@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'll be dropping here whatever i make while learning.. 
 <!--
 **yc-84/yc-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
