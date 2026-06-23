@@ -1,4 +1,4 @@
-## Hey guys!
+## Hi there. 👋
 I'll be dropping here whatever i make while learning.. 
 
 
