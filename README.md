@@ -1,4 +1,4 @@
-## Hey guys 💠
+## Hey guys!
 I'll be dropping here whatever i make while learning.. 
 
 
