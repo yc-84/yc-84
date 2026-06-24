@@ -3,7 +3,7 @@ I'll be dropping here whatever i make while learning..
 
 
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
-<img src="https://camo.githubusercontent.com/bd59c0973453f57b030808394531b22c4cf6b5e54e911dad3c70c9a100713ebc/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f4044696b614172646e743f6e616d653d44696b614172646e74267468656d653d626f6f72752d6c657764.gif" align="right">
+
 <!--
 **yc-84/yc-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
