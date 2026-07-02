@@ -1,4 +1,4 @@
-## Hello there! 
+## Hello Friend.
 I'll be dropping here whatever i make while learning.. 
 
 currently I'm learning C.
